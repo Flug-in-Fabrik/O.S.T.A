@@ -12,6 +12,6 @@
 플러그인 사용 : "/osta <포션 효과 코드>" 명령어를 사용해서 화면 중앙에 포션 이미지를 띄워줍니다.
 
 # License
-해당 플러그인 (Camera)(은)는 Fabrik-EULA에 의해 보호됩니다.
+해당 플러그인 (O.S.T.A)(은)는 Fabrik-EULA에 의해 보호됩니다.
 
 Fabrik-EULA : https://github.com/Flug-in-Fabrik/Fabrik-EULA
